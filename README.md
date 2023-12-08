@@ -2,7 +2,7 @@
   <img src="https://github.com/datasmartlab/fullstack-challenge/blob/main/.github/assets/logo.png" height="150" width="150" alt="Datasmart" />
 </p>
 
-<h3 align="center">Datasmart</h3>
+<h3 align="center">Datasmart teste</h3>
 
 <p align="center">Desafio para os candidatos à vaga de desenvolvedor Fullstack na Datasmart.</p>
 
